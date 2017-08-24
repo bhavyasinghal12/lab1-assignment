@@ -1,6 +1,6 @@
+//problem4
 #include <iostream>
 using namespace std;
-//program 4
 int main() {
 	// your code goes here
 int l=12,b=4;
